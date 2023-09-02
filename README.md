@@ -1,2 +1,2 @@
  am adding sample
-# Design
+# Design of my B.tech final project
